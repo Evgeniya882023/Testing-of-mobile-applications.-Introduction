@@ -60,4 +60,4 @@
 
 Любые вопросы по решению задач задавайте в чате учебной группы.
 
-[РЕШЕНИЕ](https://docs.google.com/spreadsheets/d/1gDulaZs05HPa6zjLYIJ6myDvoKJSLOjf/edit?usp=sharing&ouid=116206441387549703294&rtpof=true&sd=true).
+### [РЕШЕНИЕ](https://docs.google.com/spreadsheets/d/1gDulaZs05HPa6zjLYIJ6myDvoKJSLOjf/edit?usp=sharing&ouid=116206441387549703294&rtpof=true&sd=true).
